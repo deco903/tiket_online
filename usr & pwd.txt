@@ -1,0 +1,13 @@
+email : andihoerudin24@gmail.com
+	dendisantoso22@yahoo.com
+	bellasafira36@yahoo.co.id
+pwd   : andihoerudin
+        dendisantoso
+	pegawaibaru
+
+
+https://kodingbagus.blogspot.com/2019/07/cara-membuat-edit-comboboxdropdown.html
+
+codingan untuk mengurangi jumlah barang pada tabel barang laravel
+https://sekolahkoding.com/forum/cara-mengurangi-stok-barang-dari-dua-tabel-1553085490
+https://www.rajaputramedia.com/artikel/script-php-mengurangi-stok-barang.php
